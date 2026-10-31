@@ -5,7 +5,7 @@ __pycache__/
 
 # C extensions
 *.so
-
+.env/
 MRS_venv/
 .DS_Store
 requirements.txt
