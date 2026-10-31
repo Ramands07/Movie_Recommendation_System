@@ -8,6 +8,7 @@ __pycache__/
 
 MRS_venv/
 .DS_Store
+requirements.txt
 # Distribution / packaging
 .Python
 build/
